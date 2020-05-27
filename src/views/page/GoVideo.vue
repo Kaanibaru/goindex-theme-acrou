@@ -122,7 +122,7 @@ export default {
           scheme:
             "intent:" +
             this.videourl +
-            "#Intent;package=com.mxtech.videoplayer.ad;S.title=" +
+            "#Intent;package=is.xyz.mpv;S.title=" +
             this.title +
             ";end",
         },
