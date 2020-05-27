@@ -118,7 +118,7 @@ export default {
         },
         {
           name: "MXPlayer(Free)",
-          icon: "https://cloud.jsonpop.cn/go2index/player/mxplayer.png",
+          icon: "https://www.iina.io/images/iina-icon-60.png",
           scheme:
             "intent:" +
             this.videourl +
