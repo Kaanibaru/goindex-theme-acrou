@@ -88,7 +88,7 @@ module.exports = {
     publicPath,
     proxy: {
       "/api": {
-        target: "https://ossdev.achirou.workers.dev/",
+        target: "https://aporia.one/",
         ws: true,
         changeOrigin: true,
         pathRewrite: {
