@@ -109,7 +109,7 @@ export default {
         {
           name: "Aria2",
           icon: "https://cloud.jsonpop.cn/go2index/player/aria2.png",
-          scheme: 'javascript:alert("暂未实现")',
+          scheme: 'javascript:alert("ça peut marcher un jour?")',
         },
         {
           name: "nPlayer",
